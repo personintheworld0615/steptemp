@@ -1,6 +1,9 @@
 {
-  "version": 2,
-  "routes": [
-    { "src": "/(.*)", "dest": "/$1" }
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "buildCommand": null,
+  "outputDirectory": ".",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/$1" }
   ]
 }
