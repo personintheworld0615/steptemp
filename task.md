@@ -22,21 +22,14 @@ The following placeholders have been created and require real content/updates:
   - Profile image source is set to `img/members/aarav.png`.
 - **Action Required**: Provide the correct executive board title/role and profile photo for Aarav Garg.
 
-## 4. Featured Events
-- **File**: `index.html`
-- **What is placeholder**:
-  - Links for "NJ Governor Awards", "Special Needs Program", and "Summit of the Future Conference" are set to `#`.
-- **Action Required**: Provide the target detail page paths or links if available.
+## 4. Featured Events — DONE
+- Titles are plain text (no links needed).
 
-## 5. Partner Logo (West Windsor Farmers Market)
-- **File**: `index.html`
-- **What is placeholder**:
-  - Image source is set to `img/partners/wwfm.png`.
-- **Action Required**: Place the actual WW Farmers Market logo image in the `img/partners/` directory with the name `wwfm.png`.
+## 5. Partner Logo (West Windsor Farmers Market) — DONE
+- `img/partners/wwfm.png` is in place.
 
-## 6. Melvin Jones Fellow (MJF) Recipients
-- **File**: `mjf.html`
-- **What is placeholder**:
-  - The fundraising dates for Shinaya Jain, Sanshray Pradeep, Hridyanshu Pradeep, Yashvi Bharariya, Avyay Kaushik, Akshara Thogarchedu, and Akshita Vashisht are set to "(Placeholder Date)".
-  - Image paths are set to default filenames (e.g., `img/members/shinaya.jpeg`, `img/members/sanshray.jpeg`, etc.).
-- **Action Required**: Provide the dates they finished fundraising and make sure their profile photo files exist in `img/members/`.
+## 6. Melvin Jones Fellow (MJF) Recipients — DONE
+- Dates and photos filled in.
+
+## 7. 2025 PSAs — DONE
+- Added from YouTube channel `@stepforabetterworldleoclub` to `years/2025/2025.html`.
